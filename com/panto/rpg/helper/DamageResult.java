@@ -1,4 +1,4 @@
-package com.ibnu.rpg.helper;
+package com.panto.rpg.helper;
 
 public class DamageResult {
   private int damage;

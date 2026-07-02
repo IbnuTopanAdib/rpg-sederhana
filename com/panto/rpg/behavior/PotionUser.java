@@ -1,4 +1,4 @@
-package com.ibnu.rpg.behavior;
+package com.panto.rpg.behavior;
 
 public interface PotionUser {
   

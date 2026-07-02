@@ -1,4 +1,4 @@
-package com.ibnu.rpg.item;
+package com.panto.rpg.item;
 
 public class MeleeWeapon {
   

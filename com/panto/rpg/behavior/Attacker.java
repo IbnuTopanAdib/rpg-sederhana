@@ -1,6 +1,6 @@
-package com.ibnu.rpg.behavior;
+package com.panto.rpg.behavior;
 
-import com.ibnu.rpg.helper.*;
+import com.panto.rpg.helper.*;
 
 public interface Attacker {
   DamageResult attack(Damageable target, int damage);
